@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Yusuf Adeyemo
 
+![Yusuf Adeyemo](https://user-images.githubusercontent.com/10975011/90856334-9c3cce00-e379-11ea-9461-629f11d958f4.png)
+
 I help startups deliver better software and provide more control over there environment and software development process with the help of modern tools and automation.
 
 Skills: JavaScript / Golang / Rust / Docker / K8s
