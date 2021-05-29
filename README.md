@@ -4,7 +4,7 @@
 
 I help startups deliver better software and provide more control over there environment and software development process with the help of modern tools and automation.
 
-Skills: JavaScript / Golang / Rust / Docker / K8s
+Skills: JavaScript / Golang / Rust / Docker / K8s / Terraform
 
 - 🔭 I’m currently working on https://thyflow.com 
 - 🌱 I’m currently learning Rust 
